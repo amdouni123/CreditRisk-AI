@@ -169,5 +169,6 @@
         "job": "A173",
         "own_telephone": "A191",
         "foreign_worker": "A201"
-    }
+    },
+    "best_model_name": "Logistic Regression"
 }
